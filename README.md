@@ -36,3 +36,8 @@ To run the program, you need execute the following command from the project root
 java -jar build/libs/portaone-test-task-1.0-SNAPSHOT.jar src/test/resources/source.txt
 ```
 You can change the source file to your own.
+
+To just run program on test data you can also use junit test with INFO logging level:
+```bash
+./gradlew test -i
+```
