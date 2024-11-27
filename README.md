@@ -21,8 +21,8 @@
 ```
 
 ## Run & Build
-
-To develop program **Java 21** was used.
+> [!IMPORTANT]
+> To develop program **Java 21** was used, so this or newer version is required to execute it.
 
 ### Build
 
